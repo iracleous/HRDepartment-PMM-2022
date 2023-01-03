@@ -1,11 +1,11 @@
 package gr.codehub.departmenthr.domain;
 
+import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
 import lombok.*;
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.Email;
 
-import javax.persistence.*;
-import javax.validation.constraints.Email;
-import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.NotNull;
 import java.util.List;
 
 

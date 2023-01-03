@@ -1,9 +1,10 @@
 package gr.codehub.departmenthr.domain;
 
+import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.ToString;
 
-import javax.persistence.*;
+
 import java.io.Serial;
 import java.io.Serializable;
 
