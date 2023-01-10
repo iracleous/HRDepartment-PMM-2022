@@ -1,0 +1,1 @@
+alter table "C##DIMITRIS"."employees" drop column salary;
